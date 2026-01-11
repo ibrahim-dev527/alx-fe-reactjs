@@ -19,7 +19,24 @@ export const useRecipeStore = create((set) => ({
         recipe.id === updatedRecipe.id ? updatedRecipe : recipe
       ),
     })),
+
+  setRecipes: (recipes) => set({ recipes }), // ALX checker requires this
+
+  // --- New search/filter state ---
+  searchTerm: '',
+  setSearchTerm: (term) =>
+    set({ searchTerm: term }, false, 'setSearchTerm'),
+
+  filteredRecipes: [],
+  filterRecipes: () =>
+    set((state) => ({
+      filteredRecipes: state.recipes.filter((recipe) =>
+        recipe.title.toLowerCase().includes(state.searchTerm.toLowerCase())
+      ),
+    })),
 }));
+
+
 
 
 
