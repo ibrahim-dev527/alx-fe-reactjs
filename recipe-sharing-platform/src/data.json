@@ -1,0 +1,149 @@
+[
+  {
+    "id": 1,
+    "title": "Spaghetti Carbonara",
+    "summary": "A classic Italian pasta dish with eggs, cheese, pancetta, and pepper.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/33/Fresh_made_pasta_noodles.jpg",
+    "ingredients": [
+      "200g spaghetti",
+      "100g pancetta",
+      "2 large eggs",
+      "50g Pecorino cheese",
+      "50g Parmesan",
+      "Black pepper to taste",
+      "Salt for pasta water"
+    ],
+    "steps": [
+      "Boil salted water and cook spaghetti until al dente.",
+      "Fry pancetta in a pan until crispy.",
+      "Whisk eggs with grated cheeses and black pepper.",
+      "Drain pasta, reserving some pasta water.",
+      "Remove pan from heat, mix in pasta, then egg mixture.",
+      "Add pasta water gradually to create a creamy sauce.",
+      "Serve immediately with extra cheese and pepper."
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Chicken Tikka Masala",
+    "summary": "Tender chicken in a rich, spiced tomato and cream sauce.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Chicken_tikka_masala.jpg",
+    "ingredients": [
+      "500g chicken breast",
+      "1 cup yogurt",
+      "2 tsp tikka masala spice",
+      "1 can crushed tomatoes",
+      "1 cup heavy cream",
+      "1 onion diced",
+      "3 garlic cloves",
+      "1 tbsp ginger",
+      "Salt to taste"
+    ],
+    "steps": [
+      "Marinate chicken in yogurt and spices for 1 hour.",
+      "Grill or pan-fry chicken until slightly charred.",
+      "Sauté onion, garlic, and ginger in oil.",
+      "Add tomatoes and simmer for 10 minutes.",
+      "Stir in cream and add grilled chicken.",
+      "Simmer for 10 more minutes.",
+      "Serve with naan or rice."
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Avocado Toast",
+    "summary": "Quick and healthy breakfast with creamy avocado on crispy bread.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Avocado_toast_with_egg_%282%29.jpg",
+    "ingredients": [
+      "2 slices sourdough bread",
+      "1 ripe avocado",
+      "1 lemon (juice)",
+      "Salt and pepper",
+      "Red pepper flakes",
+      "2 eggs (optional)",
+      "Fresh herbs to garnish"
+    ],
+    "steps": [
+      "Toast the sourdough slices until golden and crispy.",
+      "Cut avocado in half, remove pit, and scoop into bowl.",
+      "Mash avocado with lemon juice, salt, and pepper.",
+      "Spread mashed avocado generously onto toast.",
+      "Top with red pepper flakes and fresh herbs.",
+      "Add a poached or fried egg on top if desired.",
+      "Serve immediately."
+    ]
+  },
+  {
+    "id": 4,
+    "title": "Beef Tacos",
+    "summary": "Juicy seasoned ground beef in crunchy taco shells with fresh toppings.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/7/73/001_Tacos_de_carnitas%2C_carne_asada_y_al_pastor.jpg",
+    "ingredients": [
+      "500g ground beef",
+      "8 taco shells",
+      "1 packet taco seasoning",
+      "1 cup shredded cheese",
+      "1 cup shredded lettuce",
+      "2 tomatoes diced",
+      "Sour cream",
+      "Salsa"
+    ],
+    "steps": [
+      "Brown ground beef in a skillet over medium heat.",
+      "Drain excess fat from the pan.",
+      "Add taco seasoning and water, stir to combine.",
+      "Simmer until sauce thickens, about 5 minutes.",
+      "Warm taco shells in oven at 180°C for 3 minutes.",
+      "Fill shells with beef mixture.",
+      "Top with cheese, lettuce, tomato, sour cream, and salsa."
+    ]
+  },
+  {
+    "id": 5,
+    "title": "Pancakes",
+    "summary": "Fluffy, golden pancakes perfect for a weekend morning.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Pound_layer_cake.jpg/800px-Pound_layer_cake.jpg",
+    "ingredients": [
+      "1 cup all-purpose flour",
+      "2 tbsp sugar",
+      "1 tsp baking powder",
+      "1/2 tsp baking soda",
+      "1/4 tsp salt",
+      "1 cup buttermilk",
+      "1 egg",
+      "2 tbsp melted butter"
+    ],
+    "steps": [
+      "Mix dry ingredients: flour, sugar, baking powder, soda, salt.",
+      "In another bowl, whisk buttermilk, egg, and melted butter.",
+      "Pour wet ingredients into dry and stir until just combined.",
+      "Heat a greased pan over medium heat.",
+      "Pour 1/4 cup batter per pancake onto the pan.",
+      "Cook until bubbles form, then flip.",
+      "Cook other side until golden. Serve with maple syrup."
+    ]
+  },
+  {
+    "id": 6,
+    "title": "Caesar Salad",
+    "summary": "Crisp romaine lettuce with creamy Caesar dressing and croutons.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Caesar_salad_%281%29.jpg/800px-Caesar_salad_%281%29.jpg",
+    "ingredients": [
+      "1 head romaine lettuce",
+      "1/2 cup Caesar dressing",
+      "1/2 cup croutons",
+      "1/4 cup Parmesan shavings",
+      "Black pepper to taste",
+      "1 lemon"
+    ],
+    "steps": [
+      "Wash and dry romaine lettuce leaves.",
+      "Tear leaves into bite-sized pieces.",
+      "Place in a large salad bowl.",
+      "Drizzle Caesar dressing over lettuce and toss well.",
+      "Add croutons and Parmesan shavings.",
+      "Season with black pepper and a squeeze of lemon.",
+      "Serve immediately."
+    ]
+  }
+]
